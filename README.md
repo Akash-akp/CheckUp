@@ -1,5 +1,7 @@
 # CheckUp
 
+![Logo](CheckUp.png)
+
 This is a project based on the results and progress of medical report . 
 
 - Techinal Complexity : It requires huge database and a lot of backend code.
